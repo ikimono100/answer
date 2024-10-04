@@ -3,7 +3,7 @@
 body {
   font-family: 'Noto Sans JP', sans-serif;
   color: #222;
-  background-color: #38b48b;
+  background-color: #e9e279;
 }
 
 /* information
@@ -12,7 +12,7 @@ body {
   padding: 80px 0 100px;
   color: #222;
   text-align: center;
-  background-color: #38b48b;
+  background-color: #e9e279;
 }
 
 #information .wrapper {
